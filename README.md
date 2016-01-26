@@ -1,14 +1,12 @@
 # resume
 # studychen 的个人简历
 
----
 
 # 联系方式
 
 - 手机：156******** 
 - Email：studychen@foxmail.com 
 
----
 
 # 个人信息
 
@@ -22,7 +20,6 @@
  
  - GitHub：https://github.com/studychen 
 
----
 
 #实习经历
 
@@ -34,7 +31,6 @@ SAP中国研究院西安         HANA HADR DEV Team            实习6个月
 
 普元信息技术股份有限公司     西安研发中心                 实习8个月
 
----
 
 #项目经验
 
