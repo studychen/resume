@@ -63,13 +63,12 @@ SAP中国研究院西安         HANA HADR DEV Team            实习6个月
 
 以下均为我开发中的技能
 
-- Java开发：Eclipse/Hack/Node
-- 前端工具：
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 云和开放平台：新浪云/BAE/AWS/微博开放平台/微信应用开发
+- Java开发：Eclipse/Android Studio
+- Linux相关：Vim/Shell
+- 前端工具：Postman、Chrome控制台调试
+- 数据库相关：MySQL/ASE(Sybase)/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/
+- 云和开放平台：新浪云/七牛云/微信应用开发
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
