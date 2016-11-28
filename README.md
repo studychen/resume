@@ -12,18 +12,12 @@
 
  - studychen/男/1992
  
- - 本科(2010-2014)  西安电子科技大学 电子信息工程 
- 
- - 硕士(2014-2017) /保送研究生至本校
- 
- - 技术博客：http://blog.csdn.net/never_cxb 
+ - 技术博客：http://www.alijava.com/
  
  - GitHub：https://github.com/studychen 
 
 
 #实习经历
-
-
 
 SAP中国研究院西安         HANA HADR DEV Team            实习6个月
 
